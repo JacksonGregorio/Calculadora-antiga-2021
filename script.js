@@ -7,7 +7,7 @@ function insertion(num){
 }
 
 function clear1(){
-    document.getElementById("result").innerHTML = 0;
+    document.getElementById("result").innerHTML = "";
 }
 
 function calculator(){
